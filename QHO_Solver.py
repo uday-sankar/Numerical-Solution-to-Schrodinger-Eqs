@@ -1,3 +1,4 @@
+#Solutions of Quantum Harmonic Oscilator
 import Schro_Declutter as EF
 import numpy as np
 import matplotlib.pyplot as plt
