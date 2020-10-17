@@ -1,3 +1,4 @@
+#Quantum double potential well solver
 import matplotlib.pyplot as plt
 import numpy as np
 import sys
