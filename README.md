@@ -1,4 +1,4 @@
-# Summer Project 2020
+# A python code to numerically solve 1D schrodinger equations
 A small journey into the quatum realm with python
 This is a series of python scripts which can be used to solve the schrodinger equation for bound one dimensional potentials, with the necessary tweaks.
 The Schrodinger_Declutter and Support_Functions_Morse were needed for running the other codes. But in the newer releases these have been replaced by a single python script:support function
